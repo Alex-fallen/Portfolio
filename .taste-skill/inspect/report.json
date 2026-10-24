@@ -1,0 +1,3315 @@
+{
+ "url": "http://localhost:4173/",
+ "at": "2026-10-24T11:49:45.815Z",
+ "allow": [
+  "mono",
+  "micro-label",
+  "gradient",
+  "gradient-text",
+  "text-shadow",
+  "shadow",
+  "late-title",
+  "eyebrow"
+ ],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.52,
+    1,
+    1,
+    0.8,
+    0.6,
+    0.6,
+    0.53,
+    0.74,
+    0.43,
+    0.56,
+    0.48,
+    0.38
+   ],
+   "motion": {
+    "elements": 75,
+    "css": 0,
+    "transitions": 4,
+    "scripted": 71,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 11633,
+     "screens": 12.9,
+     "words": 532,
+     "img": 4,
+     "video": 0,
+     "canvas": 1,
+     "svg": 2,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "lira-analytics.webp",
+      "lira-roleplay.webp",
+      "sop-dashboard.webp",
+      "sop-mapping.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "PRINCE JOSHI",
+     "words": 2,
+     "chars": 12,
+     "lines": 2,
+     "size": 273.6,
+     "vw": 19,
+     "font": "Geist Variable",
+     "weight": 800,
+     "tracking": -0.055,
+     "leading": 0.8,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.95,
+     "top": 120,
+     "gradientText": true,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "PRINCE JOSHI",
+     "words": 2,
+     "lines": 2,
+     "size": 273.6,
+     "font": "Geist Variable"
+    },
+    "headings": [
+     {
+      "text": "PRINCE JOSHI",
+      "words": 2,
+      "chars": 12,
+      "lines": 2,
+      "size": 273.6,
+      "vw": 19,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.055,
+      "leading": 0.8,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 120,
+      "gradientText": true,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Full-Stack Developer · AI Solutions",
+      "words": 5,
+      "chars": 35,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Geist Variable",
+      "weight": 650,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 673,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "ABOUT ME",
+      "words": 2,
+      "chars": 8,
+      "lines": 2,
+      "size": 121,
+      "vw": 8.4,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.86,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 900,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Documents in. Answers out.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 92.2,
+      "vw": 6.4,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.57,
+      "top": 1302,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "2026 · NLL Academy · Full-Stack Developer",
+      "words": 7,
+      "chars": 41,
+      "lines": 1,
+      "size": 374.4,
+      "vw": 26,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 5.05,
+      "top": 3323,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "WHERE I’VE BEEN",
+      "words": 3,
+      "chars": 15,
+      "lines": 2,
+      "size": 132.5,
+      "vw": 9.2,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 0.86,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.7,
+      "top": 3365,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "FULL-STACK DEVELOPER",
+      "words": 2,
+      "chars": 20,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.64,
+      "top": 3460,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "LIRA",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.64,
+      "top": 3474,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "SOP AUTOMATION",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.64,
+      "top": 3474,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "DOCUMENT PROCESSING",
+      "words": 2,
+      "chars": 19,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.64,
+      "top": 3474,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "SELECTED WORK",
+      "words": 2,
+      "chars": 13,
+      "lines": 2,
+      "size": 132.5,
+      "vw": 9.2,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 0.86,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.62,
+      "top": 6374,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "LIRA",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 63.4,
+      "vw": 4.4,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 7401,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "SOP AUTOMATION",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 63.4,
+      "vw": 4.4,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.3,
+      "top": 8568,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "THE STACK I BUILD WITH",
+      "words": 5,
+      "chars": 22,
+      "lines": 2,
+      "size": 132.5,
+      "vw": 9.2,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 0.86,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.62,
+      "top": 9735,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Frontend 7 TOOLS",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 49,
+      "vw": 3.4,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 10011,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Backend 5 TOOLS",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 49,
+      "vw": 3.4,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 10231,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Databases & vector search 5 TOOLS",
+      "words": 6,
+      "chars": 33,
+      "lines": 1,
+      "size": 49,
+      "vw": 3.4,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 10324,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "AI & LLM development 5 TOOLS",
+      "words": 6,
+      "chars": 28,
+      "lines": 1,
+      "size": 49,
+      "vw": 3.4,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 10417,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Document processing 5 TOOLS",
+      "words": 4,
+      "chars": 27,
+      "lines": 1,
+      "size": 49,
+      "vw": 3.4,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 10510,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Tools & infrastructure 7 TOOLS",
+      "words": 5,
+      "chars": 30,
+      "lines": 1,
+      "size": 49,
+      "vw": 3.4,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 10603,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "LET’S TALK",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 237.6,
+      "vw": 16.5,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.055,
+      "leading": 0.82,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.82,
+      "top": 11070,
+      "gradientText": true,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 21,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 1,
+     "medianWords": 3,
+     "mixedFontHeadings": 6
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Geist Variable",
+       "share": 0.83,
+       "mono": false
+      },
+      {
+       "family": "Geist Mono Variable",
+       "share": 0.17,
+       "mono": true
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      24,
+      26,
+      32,
+      49,
+      63,
+      72,
+      92,
+      121,
+      133,
+      238,
+      274,
+      374
+     ],
+     "sizeCount": 20,
+     "notLoaded": [],
+     "body": {
+      "font": "Geist Variable",
+      "size": 18.7,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17
+     },
+     "measureChars": 72,
+     "max": {
+      "size": 374.4,
+      "vw": 26,
+      "font": "Geist Variable",
+      "text": "2026 · NLL Academy · Full-Stack Develope"
+     },
+     "monoShare": 0.17,
+     "monoProseShare": 0.17,
+     "monoFamilies": [
+      "Geist Mono Variable"
+     ],
+     "monoSamples": [
+      "Currently",
+      "Focus",
+      "Frontend",
+      "Backend",
+      "AI",
+      "Feb 2026 – Present · NLL Academy"
+     ],
+     "microLabels": 17,
+     "microLabelShare": 0.134,
+     "microSamples": [
+      "Currently",
+      "Focus",
+      "Frontend",
+      "Backend",
+      "AI",
+      "Role"
+     ],
+     "upperShare": 0.22,
+     "centerShare": 0.06,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "See my work",
+      "above": "ABOUT ME",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": true,
+      "size": 15,
+      "top": 816
+     },
+     {
+      "text": "Mapping source documents to SOP sections",
+      "above": "THE STACK I BUILD WITH",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": false,
+      "size": 13,
+      "top": 9578
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#09090d",
+     "bodyBgHsl": {
+      "h": 240,
+      "s": 0.18,
+      "l": 0.04
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#040406",
+       "top": 900,
+       "hsl": {
+        "h": 240,
+        "s": 0.2,
+        "l": 0.02
+       }
+      },
+      {
+       "color": "#050508",
+       "top": 900,
+       "hsl": {
+        "h": 240,
+        "s": 0.23,
+        "l": 0.03
+       }
+      },
+      {
+       "color": "#09090d",
+       "top": 3060,
+       "hsl": {
+        "h": 240,
+        "s": 0.18,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#ededf3",
+       "share": 0.74
+      },
+      {
+       "color": "#8b8b9d",
+       "share": 0.17
+      },
+      {
+       "color": "#a9a9b9",
+       "share": 0.06
+      },
+      {
+       "color": "#09090d",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#ededf3",
+      "hsl": {
+       "h": 240,
+       "s": 0.2,
+       "l": 0.94
+      },
+      "fg": "#09090d"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "See my work →"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 4,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "img → rgba(0, 0, 0, 0.8) 0px 40px 80px -30px",
+      "img → rgba(0, 0, 0, 0.8) 0px 40px 80px -30px",
+      "img → rgba(0, 0, 0, 0.8) 0px 40px 80px -30px",
+      "img → rgba(0, 0, 0, 0.8) 0px 40px 80px -30px"
+     ],
+     "gradients": 1,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.about-beam → linear-gradient(rgba(214, 216, 255, 0.5) 0%, rgba(143, 142, 255, 0.14) 45%, rgba(0, 0, 0, 0) 75%)"
+     ],
+     "gradientText": 6,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 1,
+     "boxRadius": 20,
+     "squareMedia": 2,
+     "roundedMedia": 4,
+     "mediaRadius": 12,
+     "textShadow": 7,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 61,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "geist variable",
+     "geist mono variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 11633,
+    "margins": {
+     "left": 29,
+     "right": 40
+    },
+    "sections": [
+     {
+      "sel": "section#top.hero",
+      "tag": "section",
+      "top": 0,
+      "height": 900,
+      "words": 49,
+      "media": 0,
+      "middle": 300,
+      "heading": null,
+      "left": 40,
+      "right": 199,
+      "textLeft": 40,
+      "textRight": 199,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about",
+      "tag": "section",
+      "top": 900,
+      "height": 2160,
+      "words": 2,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "About",
+       "size": 121,
+       "tag": "h2"
+      },
+      "left": 520,
+      "right": 520,
+      "textLeft": 520,
+      "textRight": 520,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section#experience.xp",
+      "tag": "section",
+      "top": 3060,
+      "height": 3112,
+      "words": 148,
+      "media": 0,
+      "middle": 2745,
+      "heading": {
+       "text": "2026 ·",
+       "size": 374,
+       "tag": "div"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 0,
+      "textRight": -5836,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "div.work-head.shell",
+      "tag": "div",
+      "top": 6374,
+      "height": 228,
+      "words": 19,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 963,
+      "right": 58,
+      "textLeft": 963,
+      "textRight": 58,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.work-gallery",
+      "tag": "div",
+      "top": 6641,
+      "height": 558,
+      "words": 4,
+      "media": 1,
+      "middle": 550,
+      "heading": null,
+      "left": 0,
+      "right": 152,
+      "textLeft": -16,
+      "textRight": 152,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.case.shell",
+      "tag": "article",
+      "top": 7199,
+      "height": 1167,
+      "words": 52,
+      "media": 1,
+      "middle": 155,
+      "heading": {
+       "text": "Lira",
+       "size": 63,
+       "tag": "h3"
+      },
+      "left": 40,
+      "right": 37,
+      "textLeft": 40,
+      "textRight": 429,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.case.shell",
+      "tag": "article",
+      "top": 8366,
+      "height": 1167,
+      "words": 53,
+      "media": 1,
+      "middle": 137,
+      "heading": {
+       "text": "SOP Automation",
+       "size": 63,
+       "tag": "h3"
+      },
+      "left": 34,
+      "right": 66,
+      "textLeft": 34,
+      "textRight": 66,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#stack.stack.shell",
+      "tag": "section",
+      "top": 9533,
+      "height": 1163,
+      "words": 67,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The stack I",
+       "size": 132,
+       "tag": "h2"
+      },
+      "left": 40,
+      "right": 40,
+      "textLeft": 40,
+      "textRight": 72,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer#contact.contact",
+      "tag": "footer",
+      "top": 10898,
+      "height": 735,
+      "words": 20,
+      "media": 0,
+      "middle": 348,
+      "heading": null,
+      "left": 40,
+      "right": 40,
+      "textLeft": 40,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 10696,
+      "height": 884
+     }
+    ],
+    "h1s": [
+     {
+      "text": "PRINCE JOSHI",
+      "size": 274,
+      "top": 120,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 72,
+      "n": 7
+     },
+     {
+      "x": 40,
+      "n": 6
+     },
+     {
+      "x": 963,
+      "n": 4
+     },
+     {
+      "x": 29,
+      "n": 3
+     },
+     {
+      "x": 1124,
+      "n": 2
+     },
+     {
+      "x": 2132,
+      "n": 2
+     },
+     {
+      "x": 3140,
+      "n": 2
+     },
+     {
+      "x": 4148,
+      "n": 2
+     },
+     {
+      "x": 520,
+      "n": 1
+     },
+     {
+      "x": 699,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 30,
+    "bodySize": 19,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.6,
+    "voidBox": {
+     "x": 0,
+     "y": 120,
+     "w": 1440,
+     "h": 540
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.31,
+    1,
+    1,
+    0.54,
+    0.29,
+    0.61,
+    0.73,
+    0.79,
+    0.38,
+    0.6
+   ],
+   "motion": {
+    "elements": 67,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 66,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 9902,
+     "screens": 9.7,
+     "words": 518,
+     "img": 4,
+     "video": 0,
+     "canvas": 1,
+     "svg": 2,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "lira-analytics.webp",
+      "lira-roleplay.webp",
+      "sop-dashboard.webp",
+      "sop-mapping.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "PRINCE JOSHI",
+     "words": 2,
+     "chars": 12,
+     "lines": 2,
+     "size": 145.9,
+     "vw": 19,
+     "font": "Geist Variable",
+     "weight": 800,
+     "tracking": -0.055,
+     "leading": 0.8,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.95,
+     "top": 120,
+     "gradientText": true,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "PRINCE JOSHI",
+     "words": 2,
+     "lines": 2,
+     "size": 145.9,
+     "font": "Geist Variable"
+    },
+    "headings": [
+     {
+      "text": "PRINCE JOSHI",
+      "words": 2,
+      "chars": 12,
+      "lines": 2,
+      "size": 145.9,
+      "vw": 19,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.055,
+      "leading": 0.8,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 120,
+      "gradientText": true,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "ABOUT ME",
+      "words": 2,
+      "chars": 8,
+      "lines": 2,
+      "size": 64.5,
+      "vw": 8.4,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.86,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 1024,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Documents in. Answers out.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 49.2,
+      "vw": 6.4,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.56,
+      "top": 1564,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "WHERE I’VE BEEN",
+      "words": 3,
+      "chars": 15,
+      "lines": 2,
+      "size": 70.7,
+      "vw": 9.2,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 0.86,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 3530,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "FULL-STACK DEVELOPER",
+      "words": 2,
+      "chars": 20,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 3880,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "LIRA",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 4170,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "SOP AUTOMATION",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 4434,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "DOCUMENT PROCESSING",
+      "words": 2,
+      "chars": 19,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 4697,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "SELECTED WORK",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 70.7,
+      "vw": 9.2,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 0.86,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 4981,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Lira Lira SOP Automation SOP Automation Lira Lira Lira SOP Automation SOP Automation",
+      "words": 13,
+      "chars": 84,
+      "lines": 3,
+      "size": 26.7,
+      "vw": 3.5,
+      "font": "Geist Variable",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 5128,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "LIRA",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 44,
+      "vw": 5.7,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 5883,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "SOP AUTOMATION",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 44,
+      "vw": 5.7,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 7157,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "THE STACK I BUILD WITH",
+      "words": 5,
+      "chars": 22,
+      "lines": 2,
+      "size": 70.7,
+      "vw": 9.2,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 0.86,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 8431,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Frontend 7 TOOLS",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 26.1,
+      "vw": 3.4,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 8647,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Backend 5 TOOLS",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 26.1,
+      "vw": 3.4,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 8844,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Databases & vector search 5 TOOLS",
+      "words": 6,
+      "chars": 33,
+      "lines": 1,
+      "size": 26.1,
+      "vw": 3.4,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 8914,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "AI & LLM development 5 TOOLS",
+      "words": 6,
+      "chars": 28,
+      "lines": 1,
+      "size": 26.1,
+      "vw": 3.4,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 8984,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Document processing 5 TOOLS",
+      "words": 4,
+      "chars": 27,
+      "lines": 1,
+      "size": 26.1,
+      "vw": 3.4,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 9055,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Tools & infrastructure 7 TOOLS",
+      "words": 5,
+      "chars": 30,
+      "lines": 1,
+      "size": 26.1,
+      "vw": 3.4,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 9125,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "LET’S TALK",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 126.7,
+      "vw": 16.5,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.055,
+      "leading": 0.82,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.82,
+      "top": 9411,
+      "gradientText": true,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 20,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 1,
+     "centered": 1,
+     "medianWords": 3,
+     "mixedFontHeadings": 6
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Geist Variable",
+       "share": 0.84,
+       "mono": false
+      },
+      {
+       "family": "Geist Mono Variable",
+       "share": 0.16,
+       "mono": true
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      20,
+      22,
+      26,
+      27,
+      40,
+      44,
+      49,
+      65,
+      71,
+      127,
+      146
+     ],
+     "sizeCount": 17,
+     "notLoaded": [],
+     "body": {
+      "font": "Geist Variable",
+      "size": 17,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17
+     },
+     "measureChars": 72,
+     "max": {
+      "size": 145.9,
+      "vw": 19,
+      "font": "Geist Variable",
+      "text": "P"
+     },
+     "monoShare": 0.16,
+     "monoProseShare": 0.16,
+     "monoFamilies": [
+      "Geist Mono Variable"
+     ],
+     "monoSamples": [
+      "Currently",
+      "Focus",
+      "Frontend",
+      "Backend",
+      "AI",
+      "Feb 2026 – Present · NLL Academy"
+     ],
+     "microLabels": 13,
+     "microLabelShare": 0.126,
+     "microSamples": [
+      "Currently",
+      "Focus",
+      "Frontend",
+      "Backend",
+      "AI",
+      "Internal company project · public link t"
+     ],
+     "upperShare": 0.21,
+     "centerShare": 0.06,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Full-Stack Developer at NLL Academy",
+      "above": "ABOUT ME",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 16,
+      "top": 963
+     },
+     {
+      "text": "Feb 2026 – Present · NLL Academy",
+      "above": "FULL-STACK DEVELOPER",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": false,
+      "size": 17,
+      "top": 3828
+     },
+     {
+      "text": "At NLL Academy",
+      "above": "LIRA",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": false,
+      "size": 17,
+      "top": 4118
+     },
+     {
+      "text": "At NLL Academy",
+      "above": "SOP AUTOMATION",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": false,
+      "size": 17,
+      "top": 4382
+     },
+     {
+      "text": "At NLL Academy",
+      "above": "DOCUMENT PROCESSING",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": false,
+      "size": 17,
+      "top": 4646
+     },
+     {
+      "text": "Role-play practice built on course content",
+      "above": "SOP AUTOMATION",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": false,
+      "size": 13,
+      "top": 7077
+     },
+     {
+      "text": "Mapping source documents to SOP sections",
+      "above": "THE STACK I BUILD WITH",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": false,
+      "size": 13,
+      "top": 8351
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#09090d",
+     "bodyBgHsl": {
+      "h": 240,
+      "s": 0.18,
+      "l": 0.04
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#040406",
+       "top": 1024,
+       "hsl": {
+        "h": 240,
+        "s": 0.2,
+        "l": 0.02
+       }
+      },
+      {
+       "color": "#050508",
+       "top": 1024,
+       "hsl": {
+        "h": 240,
+        "s": 0.23,
+        "l": 0.03
+       }
+      },
+      {
+       "color": "#09090d",
+       "top": 3482,
+       "hsl": {
+        "h": 240,
+        "s": 0.18,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#ededf3",
+       "share": 0.76
+      },
+      {
+       "color": "#8b8b9d",
+       "share": 0.16
+      },
+      {
+       "color": "#a9a9b9",
+       "share": 0.06
+      },
+      {
+       "color": "#09090d",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#ededf3",
+      "hsl": {
+       "h": 240,
+       "s": 0.2,
+       "l": 0.94
+      },
+      "fg": "#09090d"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "See my work →"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 4,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "img → rgba(0, 0, 0, 0.8) 0px 40px 80px -30px",
+      "img → rgba(0, 0, 0, 0.8) 0px 40px 80px -30px",
+      "img → rgba(0, 0, 0, 0.8) 0px 40px 80px -30px",
+      "img → rgba(0, 0, 0, 0.8) 0px 40px 80px -30px"
+     ],
+     "gradients": 1,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.about-beam → linear-gradient(rgba(214, 216, 255, 0.5) 0%, rgba(143, 142, 255, 0.14) 45%, rgba(0, 0, 0, 0) 75%)"
+     ],
+     "gradientText": 6,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 1,
+     "boxRadius": 20,
+     "squareMedia": 2,
+     "roundedMedia": 4,
+     "mediaRadius": 12,
+     "textShadow": 7,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 61,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "geist variable",
+     "geist mono variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 9902,
+    "margins": {
+     "left": 21,
+     "right": 23
+    },
+    "sections": [
+     {
+      "sel": "section#top.hero",
+      "tag": "section",
+      "top": 0,
+      "height": 1024,
+      "words": 49,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 23,
+      "right": 179,
+      "textLeft": 23,
+      "textRight": 179,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about",
+      "tag": "section",
+      "top": 1024,
+      "height": 2458,
+      "words": 2,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "About",
+       "size": 65,
+       "tag": "h2"
+      },
+      "left": 277,
+      "right": 277,
+      "textLeft": 277,
+      "textRight": 277,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section#experience.xp",
+      "tag": "section",
+      "top": 3482,
+      "height": 1379,
+      "words": 136,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Where I’ve",
+       "size": 71,
+       "tag": "h2"
+      },
+      "left": 23,
+      "right": 137,
+      "textLeft": 23,
+      "textRight": 137,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.work-gallery",
+      "tag": "div",
+      "top": 5128,
+      "height": 635,
+      "words": 1,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Lira",
+       "size": 27,
+       "tag": "span"
+      },
+      "left": 302,
+      "right": 417,
+      "textLeft": 302,
+      "textRight": 417,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.case.shell",
+      "tag": "article",
+      "top": 5763,
+      "height": 1274,
+      "words": 52,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Lira",
+       "size": 44,
+       "tag": "h3"
+      },
+      "left": 21,
+      "right": 24,
+      "textLeft": 21,
+      "textRight": 45,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.case.shell",
+      "tag": "article",
+      "top": 7037,
+      "height": 1274,
+      "words": 53,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "SOP Automation",
+       "size": 44,
+       "tag": "h3"
+      },
+      "left": 21,
+      "right": 24,
+      "textLeft": 21,
+      "textRight": 50,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#stack.stack.shell",
+      "tag": "section",
+      "top": 8311,
+      "height": 884,
+      "words": 67,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The stack I",
+       "size": 71,
+       "tag": "h2"
+      },
+      "left": 23,
+      "right": 23,
+      "textLeft": 23,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer#contact.contact",
+      "tag": "footer",
+      "top": 9315,
+      "height": 587,
+      "words": 43,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s talk",
+       "size": 127,
+       "tag": "h2"
+      },
+      "left": 23,
+      "right": 59,
+      "textLeft": 23,
+      "textRight": 59,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "PRINCE JOSHI",
+      "size": 146,
+      "top": 120,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 23,
+      "n": 21
+     },
+     {
+      "x": 41,
+      "n": 7
+     },
+     {
+      "x": 277,
+      "n": 1
+     },
+     {
+      "x": 373,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 30,
+    "bodySize": 17,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.39,
+    1,
+    0.46,
+    0.38,
+    0.73,
+    0.49,
+    0.53,
+    0.63,
+    0.49,
+    0.84
+   ],
+   "motion": {
+    "elements": 56,
+    "css": 0,
+    "transitions": 1,
+    "scripted": 55,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 8251,
+     "screens": 9.8,
+     "words": 513,
+     "img": 4,
+     "video": 0,
+     "canvas": 1,
+     "svg": 2,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "lira-analytics.webp",
+      "lira-roleplay.webp",
+      "sop-dashboard.webp",
+      "sop-mapping.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "PRINCE JOSHI",
+     "words": 2,
+     "chars": 12,
+     "lines": 2,
+     "size": 76,
+     "vw": 19.5,
+     "font": "Geist Variable",
+     "weight": 800,
+     "tracking": -0.055,
+     "leading": 0.8,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.93,
+     "top": 120,
+     "gradientText": true,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "PRINCE JOSHI",
+     "words": 2,
+     "lines": 2,
+     "size": 76,
+     "font": "Geist Variable"
+    },
+    "headings": [
+     {
+      "text": "PRINCE JOSHI",
+      "words": 2,
+      "chars": 12,
+      "lines": 2,
+      "size": 76,
+      "vw": 19.5,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.055,
+      "leading": 0.8,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 120,
+      "gradientText": true,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Full-Stack Developer · AI Solutions",
+      "words": 5,
+      "chars": 35,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Geist Variable",
+      "weight": 650,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 470,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "ABOUT ME",
+      "words": 2,
+      "chars": 8,
+      "lines": 2,
+      "size": 56,
+      "vw": 14.4,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.86,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 940,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Documents in. Answers out.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 44,
+      "vw": 11.3,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 1092,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "WHERE I’VE BEEN",
+      "words": 3,
+      "chars": 15,
+      "lines": 2,
+      "size": 52,
+      "vw": 13.3,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 0.86,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1789,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "FULL-STACK DEVELOPER",
+      "words": 2,
+      "chars": 20,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2131,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "LIRA",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2508,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "SOP AUTOMATION",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2825,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "DOCUMENT PROCESSING",
+      "words": 2,
+      "chars": 19,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3141,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "SELECTED WORK",
+      "words": 2,
+      "chars": 13,
+      "lines": 2,
+      "size": 52,
+      "vw": 13.3,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 0.86,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3487,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "LIRA",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 44,
+      "vw": 11.3,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4358,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "SOP AUTOMATION",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 44,
+      "vw": 11.3,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5435,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "THE STACK I BUILD WITH",
+      "words": 5,
+      "chars": 22,
+      "lines": 2,
+      "size": 52,
+      "vw": 13.3,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 0.86,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6518,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Frontend 7 TOOLS",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6728,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Backend 5 TOOLS",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 7031,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Databases & vector search 5 TOOLS",
+      "words": 6,
+      "chars": 33,
+      "lines": 2,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 7101,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "AI & LLM development 5 TOOLS",
+      "words": 6,
+      "chars": 28,
+      "lines": 2,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 7197,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Document processing 5 TOOLS",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 7293,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "Tools & infrastructure 7 TOOLS",
+      "words": 5,
+      "chars": 30,
+      "lines": 2,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Geist Variable",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 7389,
+      "mixedFonts": [
+       "Geist Variable",
+       "Geist Mono Variable"
+      ],
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "LET’S TALK",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 72,
+      "vw": 18.5,
+      "font": "Geist Variable",
+      "weight": 800,
+      "tracking": -0.055,
+      "leading": 0.82,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 7701,
+      "gradientText": true,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 20,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 1,
+     "medianWords": 3,
+     "mixedFontHeadings": 6
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Geist Variable",
+       "share": 0.84,
+       "mono": false
+      },
+      {
+       "family": "Geist Mono Variable",
+       "share": 0.16,
+       "mono": true
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      20,
+      22,
+      26,
+      40,
+      44,
+      52,
+      56,
+      72,
+      76
+     ],
+     "sizeCount": 15,
+     "notLoaded": [],
+     "body": {
+      "font": "Geist Variable",
+      "size": 17,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17
+     },
+     "measureChars": 42,
+     "max": {
+      "size": 76,
+      "vw": 19.5,
+      "font": "Geist Variable",
+      "text": "P"
+     },
+     "monoShare": 0.16,
+     "monoProseShare": 0.16,
+     "monoFamilies": [
+      "Geist Mono Variable"
+     ],
+     "monoSamples": [
+      "Currently",
+      "Focus",
+      "Frontend",
+      "Backend",
+      "AI",
+      "Feb 2026 – Present · NLL Academy"
+     ],
+     "microLabels": 13,
+     "microLabelShare": 0.127,
+     "microSamples": [
+      "Currently",
+      "Focus",
+      "Frontend",
+      "Backend",
+      "AI",
+      "Internal company project · public link t"
+     ],
+     "upperShare": 0.21,
+     "centerShare": 0.06,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Feb 2026 – Present · NLL Academy",
+      "above": "FULL-STACK DEVELOPER",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": false,
+      "size": 17,
+      "top": 2055
+     },
+     {
+      "text": "At NLL Academy",
+      "above": "LIRA",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": false,
+      "size": 17,
+      "top": 2457
+     },
+     {
+      "text": "At NLL Academy",
+      "above": "SOP AUTOMATION",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": false,
+      "size": 17,
+      "top": 2773
+     },
+     {
+      "text": "At NLL Academy",
+      "above": "DOCUMENT PROCESSING",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": false,
+      "size": 17,
+      "top": 3089
+     },
+     {
+      "text": "Role-play practice built on course content",
+      "above": "SOP AUTOMATION",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": false,
+      "size": 13,
+      "top": 5337
+     },
+     {
+      "text": "Mapping source documents to SOP sections",
+      "above": "THE STACK I BUILD WITH",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": false,
+      "size": 13,
+      "top": 6439
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#09090d",
+     "bodyBgHsl": {
+      "h": 240,
+      "s": 0.18,
+      "l": 0.04
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#040406",
+       "top": 844,
+       "hsl": {
+        "h": 240,
+        "s": 0.2,
+        "l": 0.02
+       }
+      },
+      {
+       "color": "#050508",
+       "top": 1064,
+       "hsl": {
+        "h": 240,
+        "s": 0.23,
+        "l": 0.03
+       }
+      },
+      {
+       "color": "#09090d",
+       "top": 1741,
+       "hsl": {
+        "h": 240,
+        "s": 0.18,
+        "l": 0.04
+       }
+      },
+      {
+       "color": "#111117",
+       "top": 6728,
+       "hsl": {
+        "h": 240,
+        "s": 0.15,
+        "l": 0.08
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#ededf3",
+       "share": 0.76
+      },
+      {
+       "color": "#8b8b9d",
+       "share": 0.16
+      },
+      {
+       "color": "#a9a9b9",
+       "share": 0.06
+      },
+      {
+       "color": "#09090d",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#ededf3",
+      "hsl": {
+       "h": 240,
+       "s": 0.2,
+       "l": 0.94
+      },
+      "fg": "#09090d"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "See my work →"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 4,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "img → rgba(0, 0, 0, 0.8) 0px 40px 80px -30px",
+      "img → rgba(0, 0, 0, 0.8) 0px 40px 80px -30px",
+      "img → rgba(0, 0, 0, 0.8) 0px 40px 80px -30px",
+      "img → rgba(0, 0, 0, 0.8) 0px 40px 80px -30px"
+     ],
+     "gradients": 1,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.about-beam → linear-gradient(rgba(214, 216, 255, 0.5) 0%, rgba(143, 142, 255, 0.14) 45%, rgba(0, 0, 0, 0) 75%)"
+     ],
+     "gradientText": 5,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 2,
+     "boxRadius": 18,
+     "squareMedia": 2,
+     "roundedMedia": 4,
+     "mediaRadius": 12,
+     "textShadow": 7,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 61,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "geist variable",
+     "geist mono variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 8251,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section#top.hero",
+      "tag": "section",
+      "top": 0,
+      "height": 844,
+      "words": 49,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 20,
+      "textLeft": 16,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about",
+      "tag": "section",
+      "top": 844,
+      "height": 897,
+      "words": 77,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "About",
+       "size": 56,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 39,
+      "textLeft": 24,
+      "textRight": 39,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#experience.xp",
+      "tag": "section",
+      "top": 1741,
+      "height": 1626,
+      "words": 136,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Where I’ve",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 22,
+      "textLeft": 16,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.work-head.shell",
+      "tag": "div",
+      "top": 3487,
+      "height": 188,
+      "words": 19,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.work-gallery",
+      "tag": "div",
+      "top": 3715,
+      "height": 523,
+      "words": 1,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 142,
+      "right": 223,
+      "textLeft": 142,
+      "textRight": 223,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.case.shell",
+      "tag": "article",
+      "top": 4238,
+      "height": 1076,
+      "words": 52,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Lira",
+       "size": 44,
+       "tag": "h3"
+      },
+      "left": 16,
+      "right": 22,
+      "textLeft": 16,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.case.shell",
+      "tag": "article",
+      "top": 5315,
+      "height": 1083,
+      "words": 53,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "SOP Automation",
+       "size": 44,
+       "tag": "h3"
+      },
+      "left": 16,
+      "right": 22,
+      "textLeft": 16,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#stack.stack.shell",
+      "tag": "section",
+      "top": 6398,
+      "height": 1087,
+      "words": 67,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The stack I",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer#contact.contact",
+      "tag": "footer",
+      "top": 7605,
+      "height": 647,
+      "words": 43,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s talk",
+       "size": 72,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "PRINCE JOSHI",
+      "size": 76,
+      "top": 120,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 23
+     },
+     {
+      "x": 32,
+      "n": 9
+     }
+    ],
+    "leftBlocks": 32,
+    "bodySize": 17,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "mixed-font-headline",
+   "width": 1440,
+   "message": "6 headline(s) switch typeface or to italic mid-line (the \"one italic serif word\" move).",
+   "fix": "Set the whole headline in one face. Emphasis comes from the words.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "20 different font sizes (13, 14, 15, 16, 17, 18, 19, 20, 24, 26, 32, 49, 63, 72, 92, 121, 133, 238, 274, 374).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "lopsided",
+   "width": 1440,
+   "message": "A section keeps its content on one side and leaves 963px of the width empty: div.work-head.shell.",
+   "fix": "Fill the other side with what the section has (its picture, a second column, the figure), or defend the void in one sentence."
+  },
+  {
+   "level": "FAIL",
+   "id": "blank-gap",
+   "width": 1440,
+   "message": "1 stretch(es) of the page hold nothing at all: 884px at 10696px (the screen is 900px tall).",
+   "fix": "Close the gap: a section gap is 120–240px on desktop and 72–112px on a phone. Look for a min-height: 100vh on a short section, an empty grid row, a hidden element still holding its space, or a reveal that never fired. A deliberate rest is a placed picture or colour field, not nothing."
+  },
+  {
+   "level": "WARN",
+   "id": "hero-void",
+   "width": 1440,
+   "message": "60% of the first screen is one empty block (1440×540px at 0,120).",
+   "fix": "Place the void on purpose or fill it: move the picture, the film or one fact into it, grow the headline to meet it, or shrink the screen to its content. A void reads as placed only when something closes it on the far side and it is the screen's one rest."
+  },
+  {
+   "level": "WARN",
+   "id": "ragged-edges",
+   "width": 1440,
+   "message": "Left-aligned text starts at 10 different lines (72px, 40px, 963px, 29px, 1124px, 2132px, 3140px); the three most used hold only 57% of it.",
+   "fix": "Pick two or three anchor lines from the grid and start every heading and paragraph on one of them."
+  },
+  {
+   "level": "FAIL",
+   "id": "covered-text",
+   "width": 1440,
+   "message": "Large text lies under another element at some scroll position: \"2026 · NLL Academy · Full-Stack Developer\" (screen 7, 100% hidden)",
+   "fix": "Nothing may sit on top of a headline or statement. Move the picture, shorten the pinned run, or raise the text above it (z-index) and give it a ground.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "pinned-over-picture",
+   "width": 1440,
+   "message": "Pinned large text slides across pictures while the page scrolls: \"ABOUT\" (screen 2, 100% over a picture); \"Documents in. Answers out.\" (screen 3, 37% over a picture); \"FULL-STACK DEVELOPER\" (screen 5, 61% over a picture)",
+   "fix": "Jurors read a pinned title crossing drawings or photographs as a collision. Keep the pictures in the column the title does not occupy, or unpin it.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "long-pin",
+   "width": 1440,
+   "message": "The same large text stays on screen for 4 screens in a row: \"WHERE I’VE BEEN\"; \"FULL-STACK DEVELOPER\"",
+   "fix": "A pinned element earns two screens, and something must change at each. Shorten the run or give every screen its own content."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 768,
+   "message": "1 headline(s) wrap past two lines at 768px: \"Lira Lira SOP Automation SOP Automation Lira Lir\" → 3 lines (13 words, 26.7px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
+  },
+  {
+   "level": "WARN",
+   "id": "name-only-title",
+   "width": 768,
+   "message": "The h1 is a bare name (\"PRINCE JOSHI\") and nothing else on the first screen says what this is.",
+   "fix": "Keep the name if it leads, and give the line under it (18px or more) the plain words: what it is, for whom, where or when. In the study of 97 Sites of the Day, first screens that named nothing lost usability and content points.",
+   "alsoAt": [
+    390
+   ]
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\Nll0068\\OneDrive - NLL SOLUTIONS Pvt. Ltd\\Desktop\\Portfolio\\.taste-skill\\inspect\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\Nll0068\\OneDrive - NLL SOLUTIONS Pvt. Ltd\\Desktop\\Portfolio\\.taste-skill\\inspect\\desktop-page-01.jpg",
+    "C:\\Users\\Nll0068\\OneDrive - NLL SOLUTIONS Pvt. Ltd\\Desktop\\Portfolio\\.taste-skill\\inspect\\desktop-page-02.jpg",
+    "C:\\Users\\Nll0068\\OneDrive - NLL SOLUTIONS Pvt. Ltd\\Desktop\\Portfolio\\.taste-skill\\inspect\\desktop-page-03.jpg"
+   ],
+   "film": [
+    "C:\\Users\\Nll0068\\OneDrive - NLL SOLUTIONS Pvt. Ltd\\Desktop\\Portfolio\\.taste-skill\\inspect\\desktop-film-01.jpg",
+    "C:\\Users\\Nll0068\\OneDrive - NLL SOLUTIONS Pvt. Ltd\\Desktop\\Portfolio\\.taste-skill\\inspect\\desktop-film-02.jpg"
+   ]
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\Nll0068\\OneDrive - NLL SOLUTIONS Pvt. Ltd\\Desktop\\Portfolio\\.taste-skill\\inspect\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\Nll0068\\OneDrive - NLL SOLUTIONS Pvt. Ltd\\Desktop\\Portfolio\\.taste-skill\\inspect\\tablet-page-01.jpg",
+    "C:\\Users\\Nll0068\\OneDrive - NLL SOLUTIONS Pvt. Ltd\\Desktop\\Portfolio\\.taste-skill\\inspect\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\Nll0068\\OneDrive - NLL SOLUTIONS Pvt. Ltd\\Desktop\\Portfolio\\.taste-skill\\inspect\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\Nll0068\\OneDrive - NLL SOLUTIONS Pvt. Ltd\\Desktop\\Portfolio\\.taste-skill\\inspect\\mobile-page-01.jpg",
+    "C:\\Users\\Nll0068\\OneDrive - NLL SOLUTIONS Pvt. Ltd\\Desktop\\Portfolio\\.taste-skill\\inspect\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

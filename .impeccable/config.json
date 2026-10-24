@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "gradient-text",
+        "value": "*",
+        "files": [
+          "src/index.css"
+        ],
+        "createdAt": "2026-10-24T11:33:22.904Z",
+        "reason": "Reproduces the user's chosen reference (ECHO. reel): fading second hero line and chrome LET'S TALK"
+      }
+    ]
+  }
+}
